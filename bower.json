@@ -1,0 +1,27 @@
+{
+  "name": "MeanMapsApp",
+  "description": "Demo app showing the use of Google Maps in MEAN Apps",
+  "main": "server.js",
+  "authors": [
+    "Ahmed Haque"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/orinciog/rolodmap",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.0",
+    "angularjs-geolocation": "~0.1.1",
+    "modernizr-min": "^3.2.0",
+    "bootstrap": "~3.3.5",
+    "modernizr": "~3.0.0"
+  }
+}
