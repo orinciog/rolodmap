@@ -10,7 +10,7 @@
     "express": "^4.7.4",
     "jsonwebtoken": "^5.0.2",
     "method-override": ">=2.3.10",
-    "mongoose": "~4.1.0",
+    "mongoose": "~5.7.6",
      "morgan": ">=1.9.1",
     "request": "^2.69.0",
     "sparql-client": "^0.2.0"
